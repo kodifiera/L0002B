@@ -1,0 +1,7 @@
+C:\Users\Peter\source\repos\L0002B 2\L0002B 2\obj\Debug\L0002B 2.csprojAssemblyReference.cache
+C:\Users\Peter\source\repos\L0002B 2\L0002B 2\obj\Debug\L0002B 2.csproj.CoreCompileInputs.cache
+C:\Users\Peter\source\repos\L0002B 2\L0002B 2\bin\Debug\L0002B 2.exe.config
+C:\Users\Peter\source\repos\L0002B 2\L0002B 2\bin\Debug\L0002B 2.exe
+C:\Users\Peter\source\repos\L0002B 2\L0002B 2\bin\Debug\L0002B 2.pdb
+C:\Users\Peter\source\repos\L0002B 2\L0002B 2\obj\Debug\L0002B 2.exe
+C:\Users\Peter\source\repos\L0002B 2\L0002B 2\obj\Debug\L0002B 2.pdb

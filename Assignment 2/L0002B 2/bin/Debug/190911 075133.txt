@@ -1,0 +1,50 @@
+Namn: Berit Bertilsson
+Personnummer: 6502171288
+Distrikt: Bertilstorp
+Sålda artiklar: 12
+Nivå: 1
+
+Namn: Freja Fridman
+Personnummer: 9601033224
+Distrikt: Flen
+Sålda artiklar: 39
+Nivå: 1
+
+Antal personer i nivå 1: 2
+
+Namn: Anders Andersson
+Personnummer: 9107163382
+Distrikt: Alingsås
+Sålda artiklar: 67
+Nivå: 2
+
+Namn: Carl Flygare
+Personnummer: 9812235586
+Distrikt: Karlskrona
+Sålda artiklar: 58
+Nivå: 2
+
+Antal personer i nivå 2: 2
+
+Namn: Danielle LaMotte
+Personnummer: 8907124888
+Distrikt: 132
+Sålda artiklar: 132
+Nivå: 3
+
+Antal personer i nivå 3: 1
+
+Namn: Erik Ek
+Personnummer: 8305304166
+Distrikt: Eskilstuna
+Sålda artiklar: 212
+Nivå: 4
+
+Namn: Göran Grapp
+Personnummer: 7906068962
+Distrikt: Göteborg
+Sålda artiklar: 288
+Nivå: 4
+
+Antal personer i nivå 4: 2
+
